@@ -24,6 +24,7 @@
 .idea/**/shelf
 *.iml
 .idea/*
+imls/*
 
 # Sensitive or high-churn files
 .idea/**/dataSources/

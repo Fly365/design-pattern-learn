@@ -6,9 +6,13 @@
 
   <groupId>cn.learn.learn</groupId>
   <artifactId>design-pattern-runoob</artifactId>
-  <version>1.0</version>
+    <packaging>pom</packaging>
+    <version>1.0</version>
+    <modules>
+        <module>factory-pattern-01</module>
+    </modules>
 
-  <name>design-pattern-runoob</name>
+    <name>design-pattern-runoob</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
