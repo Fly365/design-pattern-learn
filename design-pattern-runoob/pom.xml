@@ -10,6 +10,7 @@
     <version>1.0</version>
     <modules>
         <module>factory-pattern-01</module>
+      <module>abstract-factory-pattern-01</module>
     </modules>
 
     <name>design-pattern-runoob</name>
