@@ -11,7 +11,8 @@
     <modules>
         <module>factory-pattern-01</module>
       <module>abstract-factory-pattern-01</module>
-        <module>singleton-pattern-01</module>
+      <module>builder-pattern-01</module>
+      <module>singleton-pattern-01</module>
     </modules>
 
     <name>design-pattern-runoob</name>
