@@ -13,6 +13,10 @@
       <module>abstract-factory-pattern-01</module>
       <module>builder-pattern-01</module>
       <module>singleton-pattern-01</module>
+        <module>prototype-pattern-01</module>
+        <module>adapter-pattern-01</module>
+        <module>bridge-pattern-01</module>
+        <module>filter-pattern-01</module>
     </modules>
 
     <name>design-pattern-runoob</name>
