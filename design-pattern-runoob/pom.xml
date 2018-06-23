@@ -17,6 +17,8 @@
         <module>adapter-pattern-01</module>
         <module>bridge-pattern-01</module>
         <module>filter-pattern-01</module>
+        <module>composite-pattern-01</module>
+        <module>decorator-pattern-01</module>
     </modules>
 
     <name>design-pattern-runoob</name>
