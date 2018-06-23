@@ -19,6 +19,7 @@
         <module>filter-pattern-01</module>
         <module>composite-pattern-01</module>
         <module>decorator-pattern-01</module>
+        <module>facade-pattern-01</module>
     </modules>
 
     <name>design-pattern-runoob</name>
