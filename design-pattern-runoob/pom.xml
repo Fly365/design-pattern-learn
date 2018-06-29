@@ -22,6 +22,7 @@
         <module>facade-pattern-01</module>
         <module>flyweight-pattern-01</module>
         <module>proxy-pattern-01</module>
+        <module>chain-of-responsibility-pattern-01</module>
     </modules>
 
     <name>design-pattern-runoob</name>
