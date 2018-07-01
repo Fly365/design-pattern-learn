@@ -1,0 +1,23 @@
+package cn.learn.learn.interpreter.demo01;
+
+/**
+ * design-pattern-runoob-cn.learn.learn.interpreter.demo01
+ *
+ * @author : WXF
+ * @date : 2018年-07月-01日
+ */
+public class OrExpression implements Expression {
+
+    private Expression expr1;
+    private Expression expr2;
+
+    public OrExpression(Expression expr1, Expression expr2){
+        this.expr1 = expr1;
+        this.expr2 = expr2;
+    }
+
+    @Override
+    public boolean interpret(String context) {
+        return expr1.interpret(context) || expr2.interpret(context);
+    }
+}
