@@ -27,6 +27,8 @@
         <module>interpreter-pattern-01</module>
         <module>iterator-pattern-01</module>
         <module>mediator-pattern-01</module>
+        <module>memento-pattern-01</module>
+      <module>observer-pattern-01</module>
     </modules>
 
     <name>design-pattern-runoob</name>
