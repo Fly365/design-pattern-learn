@@ -33,6 +33,7 @@
         <module>null-object-pattern-01</module>
         <module>strategy-pattern-01</module>
         <module>template-patterndemo-01</module>
+        <module>visitor-pattern-01</module>
     </modules>
 
     <name>design-pattern-runoob</name>
