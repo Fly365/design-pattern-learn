@@ -34,6 +34,10 @@
         <module>strategy-pattern-01</module>
         <module>template-patterndemo-01</module>
         <module>visitor-pattern-01</module>
+        <module>mvc-pattern-01</module>
+        <module>business-delegate-pattern-01</module>
+        <module>composite-entity-pattern-01</module>
+        <module>data-access-pattern-01</module>
     </modules>
 
     <name>design-pattern-runoob</name>
