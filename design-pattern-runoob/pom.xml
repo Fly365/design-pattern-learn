@@ -32,7 +32,7 @@
         <module>state-pattern-01</module>
         <module>null-object-pattern-01</module>
         <module>strategy-pattern-01</module>
-        <module>template-patterndemo-01</module>
+        <module>template-pattern-01</module>
         <module>visitor-pattern-01</module>
         <module>mvc-pattern-01</module>
         <module>business-delegate-pattern-01</module>
