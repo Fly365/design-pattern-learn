@@ -9,9 +9,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>template-pattern-demo01</artifactId>
+    <artifactId>template-pattern-01</artifactId>
 
-    <name>template-pattern-demo01</name>
+    <name>template-pattern-01</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 
